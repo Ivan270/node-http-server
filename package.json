@@ -1,0 +1,17 @@
+{
+	"name": "drilling",
+	"version": "1.0.0",
+	"description": "",
+	"main": "servidor.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node servidor.js",
+		"dev": "nodemon servidor.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^2.0.22"
+	}
+}
